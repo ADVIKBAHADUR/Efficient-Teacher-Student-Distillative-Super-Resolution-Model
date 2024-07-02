@@ -1,0 +1,11 @@
+SSIM for image quality
+focus core MTF 
+ability to recover a frequency 
+focus core matrix
+aliasing, downsampling kills high frequency
+progressive training 2x and 4x
+vgg on last layer required only
+Post processing. Sharpening. on both downsampled vs upsampled
+hyperparameter tuning, open source 
+quantisation and model tuning to reduce size of model, pruning. 
+https://github.com/bonlime/pytorch-tools/blob/master/pytorch_tools/metrics/psnr.py
